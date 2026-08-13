@@ -1,0 +1,2272 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries/Packages/Scripts"
+    },
+    {
+      "description": "To learn to write, see this great tutorial by @MarcoGorelli!\nYou can also try to Polars plugins Cookiecutter by @MarcoGorelli which provides a template to quickly scaffold a Rust-based plugin for the Polars Python library.",
+      "items": [],
+      "title": "Polars plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars_readstat",
+          "description": "Polars IO plugin to read SAS, Stata and SPSS file by @jrothbaum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T02:23:53Z",
+            "owner": "jrothbaum",
+            "repo": "polars_readstat",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_access_mdbtools",
+          "description": "Python package for reading tables from an Access database into Polars dataframes, using mdbtools by @DeflateAwning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T21:37:18Z",
+            "owner": "DeflateAwning",
+            "repo": "polars_access_mdbtools",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-redis",
+          "description": "Polars IO plugin for Redis - scan hashes, JSON, and other data types as LazyFrames with projection pushdown and RediSearch support by @joshrotenberg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-11T10:27:11Z",
+            "owner": "joshrotenberg",
+            "repo": "polars-redis",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "excelsior",
+          "description": "High-performance library for modifying Excel files with Polars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-13T15:24:15Z",
+            "owner": "krakotay",
+            "repo": "excelsior",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_io",
+          "description": "Lazily read Stata, SAS, and fixed-width files in Polars by @alipatti.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-07T13:02:12Z",
+            "owner": "alipatti",
+            "repo": "polars_io",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-root",
+          "description": "Polars plugin for reading CERN's ROOT file format by @DanielMaysWilliams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T03:55:46Z",
+            "owner": "DanielMaysWilliams",
+            "repo": "polars-root",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-fastx",
+          "description": "Polars plugin for parsing FASTA and FASTQ files into DataFrames by @apcamargo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T01:42:27Z",
+            "owner": "apcamargo",
+            "repo": "polars-fastx",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-mongo",
+          "description": "Polars IO plugin that extends polars to read from mongodb collections via the LazyFrame apis by @AThomas314.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-28T06:59:39Z",
+            "owner": "AThomas314",
+            "repo": "polars-mongo",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Import / Export"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ibis Python package for Polars",
+          "description": "Ibis is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:03:31Z",
+            "owner": "ibis-project",
+            "repo": "ibis",
+            "stars": 6623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diffly",
+          "description": "Python utility for programatically identifying differences between Polars DataFrames including schema differences, row-level mismatches, and column value changes by @Quantco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T12:21:50Z",
+            "owner": "Quantco",
+            "repo": "diffly",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catfact",
+          "description": "Python package for working with categorical data in Polars DataFrames by @machow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-04T16:50:05Z",
+            "owner": "machow",
+            "repo": "catfact",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-permute-plugin",
+          "description": "Polars plugin for easily reordering DataFrame columns by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:20:17Z",
+            "owner": "lmmx",
+            "repo": "polars-permute-plugin",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-expr-hopper",
+          "description": "Polars plugin providing a hopper of expressions for automatic, schema-aware application by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:20:10Z",
+            "owner": "lmmx",
+            "repo": "polars-expr-hopper",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-schema-index",
+          "description": "Polars plugin for flattening nested data by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:20:13Z",
+            "owner": "lmmx",
+            "repo": "polars-schema-index",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polarstation",
+          "description": "Helper functions to simplify creating and working with Enums by const-ae.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T15:10:29Z",
+            "owner": "const-ae",
+            "repo": "polarstation",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Data Manipulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars-st",
+          "description": "Polars plugin that provides geographical/spatial operations on Polars DataFrames, Series, and Expressions by @Oreilles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T20:23:55Z",
+            "owner": "oreilles",
+            "repo": "polars-st",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-h3",
+          "description": "Efficient hexagonal indexing for large-scale geospatial analysis by @Filimoa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T01:24:34Z",
+            "owner": "Filimoa",
+            "repo": "polars-h3",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-reverse-geocode",
+          "description": "This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by @MarcoGorelli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T08:51:22Z",
+            "owner": "MarcoGorelli",
+            "repo": "polars-reverse-geocode",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-coord-transforms",
+          "description": "Polars plugin for coordinates transformation and extractions features by @georgypv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-20T10:12:31Z",
+            "owner": "georgypv",
+            "repo": "polars-coord-transforms",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Geographical / Spatial"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dataframely",
+          "description": "Polars plugin that provides schema and other rule validation for Polars DataFrames by @Quantco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T09:18:45Z",
+            "owner": "Quantco",
+            "repo": "dataframely",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wimsey",
+          "description": "Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by @benrutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T15:09:43Z",
+            "owner": "benrutter",
+            "repo": "wimsey",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daffy",
+          "description": "Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by @vertti.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:55:09Z",
+            "owner": "vertti",
+            "repo": "daffy",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "truthound",
+          "description": "Enterprise data quality framework with 289 validators, auto-profiling, and zero-configuration schema inference by @seadonggyun4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T03:32:45Z",
+            "owner": "seadonggyun4",
+            "repo": "truthound",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-validator",
+          "description": "Polars plugin that makes Polars DataFrames generics by @baggiponte.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-23T16:15:05Z",
+            "owner": "baggiponte",
+            "repo": "polars-validator",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iban_validation_polars",
+          "description": "A package to facilitate validation of IBANs and getting bank identifier and branch identifier as a Polars plugin by @ericqu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-06T20:08:38Z",
+            "owner": "ericqu",
+            "repo": "iban_validation",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars_iptools",
+          "description": "Polars plugin for IP address parsing and enrichment including geolocation by @erichutchins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T21:46:48Z",
+            "owner": "erichutchins",
+            "repo": "polars_iptools",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-url",
+          "description": "Polars plugin to parse/extract fields from urls by @condekind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T00:45:56Z",
+            "owner": "condekind",
+            "repo": "polars-url",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-textproc",
+          "description": "Polars plugins to apply gopher repetetition penalties and fasttext classifiers to text data by @Apsod.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-12T09:27:09Z",
+            "owner": "Apsod",
+            "repo": "polars-textproc",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "String parsing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars-distance",
+          "description": "Polars plugin for text similarity/pairwise distance functions by @ion-elgreco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-20T08:52:49Z",
+            "owner": "ion-elgreco",
+            "repo": "polars-distance",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-fuzzy-match",
+          "description": "Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by bnm3k.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-15T21:37:26Z",
+            "owner": "bnmoch3",
+            "repo": "polars-fuzzy-match",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-strsim",
+          "description": "Polars plugin that computes string similarity measures directly on a Polars dataframe by @foxcroftjn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-25T14:08:15Z",
+            "owner": "foxcroftjn",
+            "repo": "polars-strsim",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_sim",
+          "description": "Polars plugin that implements fast approximate joins on string columns for polars dataframes by @schemaitat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-15T08:35:05Z",
+            "owner": "schemaitat",
+            "repo": "polars_sim",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Text similarity / Fuzzy Matching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "functime",
+          "description": "Machine learning Python package built on Polars for time-series predictions by @functime-org. According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-03T10:37:52Z",
+            "owner": "functime-org",
+            "repo": "functime",
+            "stars": 1181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-talib",
+          "description": "Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by @Yvictor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-04T17:09:14Z",
+            "owner": "Yvictor",
+            "repo": "polars_ta_extension",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-xdt",
+          "description": "Polars plugin with extra-datetime-related functionalities by @MarcoGorelli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T15:15:35Z",
+            "owner": "pola-rs",
+            "repo": "polars-xdt",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-ts",
+          "description": "Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by @drumtorben.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T16:08:14Z",
+            "owner": "drumtorben",
+            "repo": "polars-ts",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-xdt-docs",
+          "description": "Polars plugin for business day arithmetic by @MarcoGorelli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-10-21T09:33:13Z",
+            "owner": "MarcoGorelli",
+            "repo": "polars-xdt-docs",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Time series / Datetime"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars-ds",
+          "description": "Polars extension for general data science use cases by @abstractqqq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T16:55:08Z",
+            "owner": "abstractqqq",
+            "repo": "polars_ds_extension",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tubular",
+          "description": "Scikit-learn pipeline compatible pre-processing steps by @azukds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:54:28Z",
+            "owner": "azukds",
+            "repo": "tubular",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-candle",
+          "description": "Polars plugin for running candle ML models on Polars DataFrames by @wdoppenberg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T09:15:11Z",
+            "owner": "wdoppenberg",
+            "repo": "polars-candle",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retrofit",
+          "description": "Machine learning framework built with Polars by @AdrianAntico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-26T16:25:49Z",
+            "owner": "AdrianAntico",
+            "repo": "RetroFit",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-ml",
+          "description": "Polars plugin for machine learning by @barak1412.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-20T11:10:59Z",
+            "owner": "barak1412",
+            "repo": "polars_ml",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-fastembed",
+          "description": "Polars plugin for embedding DataFrames by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:20:05Z",
+            "owner": "lmmx",
+            "repo": "polars-fastembed",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Machine Learning & Data Science"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars-skills",
+          "description": "Official AI agent skills by @polars-inc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T15:08:18Z",
+            "owner": "polars-inc",
+            "repo": "skills",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polar_llama",
+          "description": "Polars plugin for interacting with LLMs in Polars by @daviddrummond95.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:55:03Z",
+            "owner": "pnthn-ai",
+            "repo": "polar_llama",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-mcp",
+          "description": "A local MCP server for live API lookup against your installed Polars version by @r-brink.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T12:30:25Z",
+            "owner": "r-brink",
+            "repo": "polars-mcp",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polar-whichlang",
+          "description": "Polars plugin for fast language identification by @rmalouf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T18:21:49Z",
+            "owner": "rmalouf",
+            "repo": "polars_whichlang",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-sbert",
+          "description": "Polars plugin for embedding data with Sentence Transformers by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T00:00:41Z",
+            "owner": "lmmx",
+            "repo": "polars-sbert",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Language"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars-trading",
+          "description": "A collection of helpful polars plugins and functions for market data processing by @ngriffiths13.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-02T15:45:12Z",
+            "owner": "ngriffiths13",
+            "repo": "polars-trading",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquantstats",
+          "description": "Polars/Narwhals-centric tool for the analysis of financial time series data by @tschm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T10:04:31Z",
+            "owner": "Jebel-Quant",
+            "repo": "jquantstats",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-bloomberg",
+          "description": "Polars plugin that extracts Bloomberg’s financial data directly into polars.DataFrame by @MarekOzana.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T18:35:59Z",
+            "owner": "MarekOzana",
+            "repo": "polars-bloomberg",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-backtest",
+          "description": "Polars extension for high-performance portfolio backtesting with Rust, Arrow, T+1 execution, and trade reports by @Yvictor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T02:03:03Z",
+            "owner": "Yvictor",
+            "repo": "polars_backtest_extension",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quantwave",
+          "description": "Polars-native technical analysis (221 indicators), execution-aware backtesting, and batch/streaming parity with a Rust core and agent skill by @lavs9.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T04:43:08Z",
+            "owner": "lavs9",
+            "repo": "quantwave",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-order-book",
+          "description": "Polars plugin for enriching orderbook data with best bid and offer information by @ChristopherRussell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-19T21:46:04Z",
+            "owner": "ChristopherRussell",
+            "repo": "polars-order-book",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_plugin_option_pricing",
+          "description": "Polars plugin exposing rust crate option-pricing by @oscar6echo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-12T21:44:16Z",
+            "owner": "oscar6echo",
+            "repo": "polars-plugin-option-pricing",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-fin",
+          "description": "Polars plugin to calculate financial metrics by @LVG77.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T14:30:08Z",
+            "owner": "LVG77",
+            "repo": "polars-fin",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Finance"
+    },
+    {
+      "description": "httpolars - Polars plugin for HTTP operations on columns by @lmmx.",
+      "items": [],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars_ols",
+          "description": "Polars plugin that enables fast linear model Polar expressions by @azmyrajab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-03T00:11:10Z",
+            "owner": "azmyrajab",
+            "repo": "polars_ols",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-pairing",
+          "description": "Polars plugin that provides pairing functions that encode two natural numbers into a single natural number by @apcamargo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-14T23:39:25Z",
+            "owner": "apcamargo",
+            "repo": "polars-pairing",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_rng",
+          "description": "Random number generation in Polars via the expression API by @alipatti.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-11T21:23:16Z",
+            "owner": "alipatti",
+            "repo": "polars_rng",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Mathematical & Statistical Functions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars for Python",
+          "description": "Python package to use polars DataFrame from Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:37:19Z",
+            "owner": "pola-rs",
+            "repo": "polars",
+            "stars": 39343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Narwhals",
+          "description": "Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by @narwhals-dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:55:27Z",
+            "owner": "narwhals-dev",
+            "repo": "narwhals",
+            "stars": 1695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-upgrade",
+          "description": "Python package that automatically upgrades your Polars code so it's compatible with future versions by @MarcoGorelli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-18T08:51:07Z",
+            "owner": "MarcoGorelli",
+            "repo": "polars-upgrade",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-config-meta",
+          "description": "Polars plugin for persistent DataFrame-level metadata by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:20:01Z",
+            "owner": "lmmx",
+            "repo": "polars-config-meta",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_streaming_csv_decompression",
+          "description": "Polars IO plugin for reading compressed CSV/TSV files in a streaming fashion by @ghuls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T15:10:38Z",
+            "owner": "ghuls",
+            "repo": "polars_streaming_csv_decompression",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-utils",
+          "description": "Collection of utilities for data exploration and analysis with Polars DataFrames by @junghoon-son.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-03T20:46:26Z",
+            "owner": "junghoon-son",
+            "repo": "polars-utils",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_list_utils",
+          "description": "Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by @dashdeckers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T19:34:30Z",
+            "owner": "dashdeckers",
+            "repo": "polars_list_utils",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harley",
+          "description": "Polars helper methods to enhance developer productivity by @TomBurdge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-08T16:31:00Z",
+            "owner": "TomBurdge",
+            "repo": "harley",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-genson",
+          "description": "Fast JSON schema inference with support for Polars DataFrames by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T16:04:58Z",
+            "owner": "lmmx",
+            "repo": "polars-genson",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turtle-island",
+          "description": "A lightweight utility library for writing Polars Expressions by @jrycw.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:41:34Z",
+            "owner": "jrycw",
+            "repo": "turtle-island",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-argpartition",
+          "description": "Polars plugin that implements the argpartition function by @GiovanniGiacometti.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-08T16:28:05Z",
+            "owner": "GiovanniGiacometti",
+            "repo": "polars-argpartition",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-extensions",
+          "description": "Polars plugin that extends the capabilities of Polars with functionalities that are not currently found in Polars by @jrasband-dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T05:31:32Z",
+            "owner": "jrasband-dev",
+            "repo": "polars-extensions",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-nexpresso",
+          "description": "Polars plugins for generating Polars expressions to work with nested data structures by @heshamdar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T05:49:29Z",
+            "owner": "heshamdar",
+            "repo": "polars-nexpresso",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-map",
+          "description": "Polars extension that provids a Map extension type and functions by @hafaio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T04:34:28Z",
+            "owner": "hafaio",
+            "repo": "polars-map",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polarsFE",
+          "description": "Polars plugins with helper functions for feature engineering, using Polars by @AdrianAntico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T15:41:02Z",
+            "owner": "AdrianAntico",
+            "repo": "PolarsFE",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "life_polars_plugin",
+          "description": "Polars plugin to showcase some features of the plugin system by @condekind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-10T17:45:27Z",
+            "owner": "condekind",
+            "repo": "life_polars_plugin",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-avro",
+          "description": "Polars plugin for reading and writing avro files by @hafaio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T04:37:08Z",
+            "owner": "hafaio",
+            "repo": "polars-avro",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-row-collector",
+          "description": "Facade to collect rows one-by-one into a Polars DataFrame with minimal overhead by @DeflateAwning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T01:45:20Z",
+            "owner": "DeflateAwning",
+            "repo": "polars-row-collector",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-path",
+          "description": "Polars plugin with filesystem path utilities by @gorkaerana.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T12:48:10Z",
+            "owner": "gorkaerana",
+            "repo": "polars-path",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "General utilities / Performance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QuickEcharts",
+          "description": "Python package for fast and easy echarts with Polars backend by @AdrianAntico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T02:33:34Z",
+            "owner": "AdrianAntico",
+            "repo": "QuickEcharts",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seaborn_polars",
+          "description": "Python package to plot Polars DataFrames and LazyFrames with seaborn by @pavelcherepan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T00:06:52Z",
+            "owner": "pavelcherepan",
+            "repo": "seaborn_polars",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowview",
+          "description": "A visual debugger that shows what happens at each step of your Polars DataFrame transformations in the terminal. By @guillermodotn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T21:53:52Z",
+            "owner": "guillermodotn",
+            "repo": "flowview",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars_ta",
+          "description": "Python package that provides technical indicator operators rewritten in Polars by @wukan1986.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T10:47:09Z",
+            "owner": "wukan1986",
+            "repo": "polars_ta",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars OLS",
+          "description": "Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by @azmyrajab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-03T00:11:10Z",
+            "owner": "azmyrajab",
+            "repo": "polars_ols",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-bio",
+          "description": "Polars plugin for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by @biodatageeks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:15:15Z",
+            "owner": "biodatageeks",
+            "repo": "polars-bio",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_hash",
+          "description": "Python package that provides stable hashing functionality across different Polars versions by @ion-elgreco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:03:14Z",
+            "owner": "ion-elgreco",
+            "repo": "polars-hash",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-finance",
+          "description": "A collection of Python Polars plugins and functions for market data processing by @ngriffiths13.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-02T15:45:12Z",
+            "owner": "ngriffiths13",
+            "repo": "polars-trading",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "immunum-polars",
+          "description": "high-performance plugin for antibody segmentation and numbering, with up to 1,000,000 antibodies per second on 48-core CPU machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T14:29:48Z",
+            "owner": "ENPICOM",
+            "repo": "immunum",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_istr",
+          "description": "Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by @abstractqqq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-03T14:47:27Z",
+            "owner": "abstractqqq",
+            "repo": "polars_istr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars_encryption",
+          "description": "Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by @zlobendog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-08T11:24:39Z",
+            "owner": "zlobendog",
+            "repo": "polars_encryption",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "photoshoot",
+          "description": "A pytest plugin library for doing snapshot testing with Polars DataFrames by @ngriffiths13.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-20T03:14:17Z",
+            "owner": "ngriffiths13",
+            "repo": "photoshoot",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-graphframes",
+          "description": "Polars plugin for interconnection of graphs and networks with Frames by @t-ded.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T22:01:45Z",
+            "owner": "t-ded",
+            "repo": "polars-graphframes",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polarise",
+          "description": "A Polars-native DataFrame styling tool for HTML visualization by @egayer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T14:49:42Z",
+            "owner": "egayer",
+            "repo": "polarise",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-cache",
+          "description": "Polars plugin to automatically cache the result of expensive queries to disc by @alipatti.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T17:36:07Z",
+            "owner": "alipatti",
+            "repo": "polars_cache",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-phonetics",
+          "description": "Polars plugin for phonetic algorithms by @LeCodeMinister.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-14T09:30:08Z",
+            "owner": "LeCodeMinister",
+            "repo": "polars-phonetics",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerburus",
+          "description": "Python package that prints Polars DataFrames with hierarchical headers by @rhshadrach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-16T01:53:58Z",
+            "owner": "rhshadrach",
+            "repo": "cerbursus",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pl_series_hash",
+          "description": "Fast series hashing for polars, useful for caching by @paddymul.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-11T16:14:35Z",
+            "owner": "paddymul",
+            "repo": "pl_series_hash",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-holidays",
+          "description": "Polars plugin for determining if a date is a holiday by @mrjsj.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-25T20:45:18Z",
+            "owner": "mrjsj",
+            "repo": "polars-holidays",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raffalib-python",
+          "description": "STATA-like logging capabilities by @raffaem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T12:18:41Z",
+            "owner": "raffaelemancuso",
+            "repo": "raffalib-python",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars for Rust",
+          "description": "Rust crate to use polars DataFrame with Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:37:19Z",
+            "owner": "pola-rs",
+            "repo": "polars",
+            "stars": 39343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPolars",
+          "description": "pre-alpha Rust crate that extends the Polars DataFrame library for use with geospatial data (not in active development - see top of readme).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-10T21:37:24Z",
+            "owner": "pola-rs",
+            "repo": "geopolars",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plotlars",
+          "description": "is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-27T21:08:11Z",
+            "owner": "alceal",
+            "repo": "plotlars",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars CLI",
+          "description": "is a command line interface for running SQL queries with Polars as backend.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-09-02T17:38:44Z",
+            "owner": "pola-rs",
+            "repo": "polars-cli",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iban_validation",
+          "description": "A set of projects to facilitate validation of ibans and getting the bank identifier and branch identifier in Rust, Python and Polars by @ericqu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-06T20:08:38Z",
+            "owner": "ericqu",
+            "repo": "iban_validation",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rpolars for R",
+          "description": "R package to use polars DataFrame from R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-12T05:23:34Z",
+            "owner": "pola-rs",
+            "repo": "r-polars",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidypolars for R",
+          "description": "package to use polars with tidyverse syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-11T22:39:23Z",
+            "owner": "etiennebacher",
+            "repo": "tidypolars",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo-r-polars",
+          "description": "Next generation of Polars R API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2025-07-21T04:40:05Z",
+            "owner": "eitsupi",
+            "repo": "neo-r-polars",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polarssql",
+          "description": "experimental package which is a DBI-compliant interface to Polars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-07-20T13:06:06Z",
+            "owner": "rpolars",
+            "repo": "r-polarssql",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r-polars-dashboard",
+          "description": "Dashboard comparing r-polars and py-polars APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:20:19Z",
+            "owner": "etiennebacher",
+            "repo": "r-polars-dashboard",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "R"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars-explorer",
+          "description": "A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by @brutusyhy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-11T12:17:33Z",
+            "owner": "brutusyhy",
+            "repo": "polars-explorer",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-query-dev-complexity",
+          "description": "A lightweight tool for measuring the authoring complexity of Polars LazyFrame queries by @fran6w.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T08:43:12Z",
+            "owner": "fran6w",
+            "repo": "polars-query-dev-complexity",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octopolars",
+          "description": "Pull, filter, and walk a GitHub user's repositories with Polars by @lmmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:19:50Z",
+            "owner": "lmmx",
+            "repo": "octopolars",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polars-mas",
+          "description": "A CLI tool and Python library meant to perform large scale multiple association tests, primarily seen in academic research by @idinsmore1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T19:40:21Z",
+            "owner": "idinsmore1",
+            "repo": "polars-mas",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tools Built with Polars"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python Polars: A Lightning-Fast DataFrame Library",
+          "description": "A tutorial that shows how to use Polars with Python ecosystem by @hfhoffman1144. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T14:10:21Z",
+            "owner": "realpython",
+            "repo": "materials",
+            "stars": 5203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Polars: Unlocking High-Performance Data Analysis — Part 1",
+          "description": "First part of an article that explores the world of Rust’s Polars and explain some basic concepts of Polars such as Series by @wiseaidev. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T09:25:31Z",
+            "owner": "wiseaidev",
+            "repo": "rust-data-analysis",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scripts and datasets for the O'Reilly book Python Polars: The Definitive Guide",
+          "description": "Useful Python notebooks ordered by book chapter by @jeroenjanssens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-10T16:29:25Z",
+            "owner": "jeroenjanssens",
+            "repo": "python-polars-the-definitive-guide",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars cookbook in Python",
+          "description": "This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By @escobar-west, it uses real-world examples with \"all the bugs and weirdness that entails.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-08T18:50:25Z",
+            "owner": "escobar-west",
+            "repo": "polars-cookbook",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast String Processing with Polars — Scam Emails Dataset",
+          "description": "A tutorial using Polars to implement a text processing pipeline process by @AntonsRuberts. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-28T15:38:22Z",
+            "owner": "aruberts",
+            "repo": "tutorials",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Pipelines with Polars: Step-by-Step Guide",
+          "description": "A tutorial that explains how to build data pipelines with Polars by @AntonsRuberts. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-28T15:38:22Z",
+            "owner": "aruberts",
+            "repo": "tutorials",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Practical Comparison of Polars and Pandas",
+          "description": "A tutorial that showcases several common operations in Pandas and Polars side by side to demonstrate how much easier Polars is by @FlorianWilhelm. There is also an accompanying Jupyter notebook available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-24T15:08:35Z",
+            "owner": "FlorianWilhelm",
+            "repo": "polars_vs_pandas",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python-Polars-Tips-and-Tricks",
+          "description": "Collection of source code demonstrating tips and tricks in Polars by @StuffbyYuki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-04T23:29:08Z",
+            "owner": "StuffbyYuki",
+            "repo": "Python-Polars-Tips-and-Tricks",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars Workshop on AWS",
+          "description": "A comprehensive workshop comparing Polars to Pandas, exploring a wide range of functions and features by @debnsuma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-04T18:18:27Z",
+            "owner": "debnsuma",
+            "repo": "pycon_polars101",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction course that introduces the concept of DataFrame",
+          "description": "with Polars and Python. It also proposes some corrected exercices by @TLouf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-29T16:39:03Z",
+            "owner": "TLouf",
+            "repo": "Py4DataSci-course",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tutorials & workshops"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Benchmarking PySpark Pandas, Pandas UDFs, and Fugue Polars",
+          "description": "A blog post that compares the execution time of fugue + Polars, Pandas UDFs and PySpark Pandas by @kvnkho.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T21:49:03Z",
+            "owner": "fugue-project",
+            "repo": "fugue",
+            "stars": 2170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pandas2 and Polars for Feature Engineering",
+          "description": "A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by @hopswork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-10T05:53:39Z",
+            "owner": "logicalclocks",
+            "repo": "hopsworks",
+            "stars": 1302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)",
+          "description": "A blog post that describes the main data processing operations with Polars in Python by @AntonsRuberts. Code used is available in this notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-28T15:38:22Z",
+            "owner": "aruberts",
+            "repo": "tutorials",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDA with Polars: Step-by-Step Guide to Aggregate and Analytic Functions (Part 2)",
+          "description": "A blog post that shows how to perform with Polars and Python some fairly complex aggregates, rolling statistics and more by @AntonsRuberts. Code used is available in this notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-28T15:38:22Z",
+            "owner": "aruberts",
+            "repo": "tutorials",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pandas vs Polars – Speed Comparison",
+          "description": "A blog post that compares the performance of Polars, Pandas and Pandas 2.0 by @StuffbyYuki. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-04T23:29:08Z",
+            "owner": "StuffbyYuki",
+            "repo": "Python-Polars-Tips-and-Tricks",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyFrame vs DataFrame in Polars – Performance Comparison",
+          "description": "A blog post that introduces what LazyFrame is in Polars and its performance gain compared to DataFrame by @StuffbyYuki. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-04T23:29:08Z",
+            "owner": "StuffbyYuki",
+            "repo": "Python-Polars-Tips-and-Tricks",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pandas vs Polars : Comparaison des performances et de la mémoire",
+          "description": "A 2025 benchmark that compares the performance of Polars and Pandas by @moncoachdata. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-13T16:38:00Z",
+            "owner": "moncoachdata",
+            "repo": "MonShotData",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark vs Polars. Real-life Test Case",
+          "description": "A blog post in which the author tests whether Polars is able to handle \"real amounts of data\" and \"really replace some production Spark workloads.\" by @danielbeach. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-06T14:17:51Z",
+            "owner": "danielbeach",
+            "repo": "PolarsVsPySpark",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars vs Pandas. Inside an AWS Lambda",
+          "description": "A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by @danielbeach. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-23T00:19:00Z",
+            "owner": "danielbeach",
+            "repo": "polarsVpandasOnAwsLambda",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataframe Showdown – Polars vs Spark vs Pandas vs DataFusion. Guess who wins?",
+          "description": "A short article that presents a performance test between Polars, Pandas, Datafusion and Spark on a csv dataset by @danielbeach. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-13T14:10:21Z",
+            "owner": "danielbeach",
+            "repo": "DataFrameShowDown",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB vs Polars vs Spark!",
+          "description": "An article that performs a benchmark against duckdb/Polars/spark, with varying row count, with swap usage as another metric, in addition to runtime in seconds. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T10:40:58Z",
+            "owner": "kahnwong",
+            "repo": "dataframe-frameworks-showdown",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build a Decision Tree in Polars from Scratch",
+          "description": "A post that explains how to build a decision tree with Polars by @tocab. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-28T11:53:37Z",
+            "owner": "tocab",
+            "repo": "efficient-trees",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Replacing Pandas with Polars. A Practical Guide",
+          "description": "A blog post comparing some common functions between Pandas and Polars by @danielbeach. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-19T22:15:49Z",
+            "owner": "danielbeach",
+            "repo": "PandasVsPolars",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Date and DateTime Manipulation in Polars",
+          "description": "A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by @danielbeach. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T14:50:13Z",
+            "owner": "danielbeach",
+            "repo": "PolarsDateTimeManipulation",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time series Analysis with Polars",
+          "description": "A short blog post that explains how to deal with temporal datasets by @gaborschulz. Full helpful notebook available here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-12T06:27:47Z",
+            "owner": "gaborschulz",
+            "repo": "learning-polars",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pandas vs Polars? Bid Adieu to Pandas and Switch To Polars!",
+          "description": "An article that compares Polars to Pandas with a dataset of 1.2 GB. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-21T09:44:24Z",
+            "owner": "sm823zw",
+            "repo": "pandas-vs-polars",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Complete Guide to Polars for Data Science",
+          "description": "A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by @norochalise. Code used is available on Github here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-11T14:45:02Z",
+            "owner": "norochalise",
+            "repo": "noroinsight-polars-tutorial",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pandas vs. Polars: The Battle of Performance",
+          "description": "An another blog post that compares the performance between Pandas and Polars across a range of common data manipulation tasks by @makeuseofcode. Code used is available on Github.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-07T23:00:30Z",
+            "owner": "makeuseofcode",
+            "repo": "Polars-vs-Pandas-Comparison",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Age of DataFrames II: Polars Edition",
+          "description": "A blog post that illustrates the features of Polars through the analysis of a tournament from the video game Age of Empires II by [@woutergins]. Source code available here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-29T11:19:01Z",
+            "owner": "woutergins",
+            "repo": "age-of-dataframes",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Blog posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polars-Cookbook in Python",
+          "description": "Polars cookbook with organized by Python notebooks and chapter by @StuffbyYuki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-02T14:26:31Z",
+            "owner": "PacktPublishing",
+            "repo": "Polars-Cookbook",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars Introduction for Python with a 128GB Ryzen 24-core Benchmark vs Pandas",
+          "description": "⏳ - A video that provides an introduction to Polars for Python by @jeffheaton. Notebook used for the video in this github repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-10-18T16:47:29Z",
+            "owner": "jeffheaton",
+            "repo": "present",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to update mass data using Polars DataFrame",
+          "description": "⏳ - A video that presents the process of writing code to update mass columns across CSV or data files by @AmitXShukla. Notebook used for the video in this github repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-21T22:08:16Z",
+            "owner": "AmitXShukla",
+            "repo": "RPA",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars: The main alternative to pandas in Python!?",
+          "description": "⏳ - A Polars tutorial series on Youtube by @martinbel. Notebooks and datasets used for the videos available in this github repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-25T21:39:22Z",
+            "owner": "martinbel",
+            "repo": "polars-tutorial",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Learn the Polars DataFrame Library",
+          "description": "⏳ 65 min - A video that enables to learn practical techniques for data manipulation and advanced transformations by @kimfetti. Associated github repo is here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-13T15:08:24Z",
+            "owner": "kimfetti",
+            "repo": "Conferences",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars - make the switch to lightning-fast dataframes",
+          "description": "⏳ - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by @datenzauberai. Slides are available here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-20T13:26:27Z",
+            "owner": "datenzauberai",
+            "repo": "PyConDE-2023--Polars-make-the-switch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Learn the Polars DataFrame Library",
+          "description": "⏳ 110 min - A long video that explains and illustrates the basic principles of Polars by @KeithGalli. Associated github repo is here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-08T21:55:24Z",
+            "owner": "KeithGalli",
+            "repo": "polars-livestream",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Why I switched grom Pandas to Polars",
+          "description": "⏳ 53 min - A workshop that breaks down the 3 reasons why you could switched from Pandas to Polars by @bfeif. Notebook used for the video in this github repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-22T15:09:45Z",
+            "owner": "bfeif",
+            "repo": "personal-website",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars vs Pandas | detailed test with explained results",
+          "description": "⏳ - A video that presents 8 distinct tests which demonstrates differences between Pandas and Polars by @vb100. Associated github repo is here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-27T15:54:08Z",
+            "owner": "vb100",
+            "repo": "polars_vs_pandas",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polars DataFrame",
+          "description": "⏳ 41 min - A video that shows some basic manipulations with Polars and Python by @vedica1011. Notebook used for the video in this github repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-09-25T15:04:44Z",
+            "owner": "vedica1011",
+            "repo": "Polars",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Talks and videos"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:02.728Z",
+    "original_repository": "ddotta/awesome-polars",
+    "original_repository_sha": "08080e06d4b1a5563d42eec6f7c314b1c46be2fc",
+    "enhanced_repository": "enhansome/enhansome-polars",
+    "enhanced_repository_description": null,
+    "title": "Awesome Polars with stars"
+  }
+}
