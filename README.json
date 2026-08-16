@@ -142,7 +142,7 @@
             "last_commit": "2026-08-14T18:45:16Z",
             "owner": "ibis-project",
             "repo": "ibis",
-            "stars": 6626
+            "stars": 6627
           }
         },
         {
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T01:11:04Z",
+            "last_commit": "2026-08-15T05:15:08Z",
             "owner": "vertti",
             "repo": "daffy",
             "stars": 58
@@ -767,7 +767,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T03:44:36Z",
+            "last_commit": "2026-08-15T06:26:33Z",
             "owner": "Jebel-Quant",
             "repo": "jquantstats",
             "stars": 42
@@ -809,7 +809,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T09:37:40Z",
+            "last_commit": "2026-08-15T09:01:05Z",
             "owner": "lavs9",
             "repo": "quantwave",
             "stars": 9
@@ -927,7 +927,7 @@
             "last_commit": "2026-08-14T14:54:56Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39360
+            "stars": 39364
           }
         },
         {
@@ -1272,7 +1272,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:44:44Z",
+            "last_commit": "2026-08-15T06:25:46Z",
             "owner": "biodatageeks",
             "repo": "polars-bio",
             "stars": 190
@@ -1491,7 +1491,7 @@
             "last_commit": "2026-08-14T14:54:56Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39360
+            "stars": 39364
           }
         },
         {
@@ -1505,7 +1505,7 @@
             "last_commit": "2025-12-10T21:37:24Z",
             "owner": "pola-rs",
             "repo": "geopolars",
-            "stars": 908
+            "stars": 909
           }
         },
         {
@@ -1564,7 +1564,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T05:23:34Z",
+            "last_commit": "2026-08-16T01:50:09Z",
             "owner": "pola-rs",
             "repo": "r-polars",
             "stars": 568
@@ -1620,7 +1620,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:15:34Z",
+            "last_commit": "2026-08-15T08:39:02Z",
             "owner": "etiennebacher",
             "repo": "r-polars-dashboard",
             "stars": 3
@@ -2262,7 +2262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:47:51.400Z",
+    "last_updated": "2026-08-16T03:54:26.326Z",
     "original_repository": "ddotta/awesome-polars",
     "original_repository_sha": "08080e06d4b1a5563d42eec6f7c314b1c46be2fc",
     "enhanced_repository": "enhansome/enhansome-polars",
