@@ -143,10 +143,10 @@
                     "archived": false,
                     "id": 34139230,
                     "language": "Python",
-                    "last_commit": "2026-08-14T18:45:16Z",
+                    "last_commit": "2026-08-19T23:14:51Z",
                     "owner": "ibis-project",
                     "repo": "ibis",
-                    "stars": 6633
+                    "stars": 6634
                   }
                 },
                 {
@@ -325,7 +325,7 @@
                     "last_commit": "2026-08-04T09:18:45Z",
                     "owner": "Quantco",
                     "repo": "dataframely",
-                    "stars": 610
+                    "stars": 611
                   }
                 },
                 {
@@ -556,7 +556,7 @@
                     "last_commit": "2026-06-04T17:09:14Z",
                     "owner": "Yvictor",
                     "repo": "polars_ta_extension",
-                    "stars": 247
+                    "stars": 248
                   }
                 },
                 {
@@ -635,7 +635,7 @@
                     "archived": false,
                     "id": 360885026,
                     "language": "Python",
-                    "last_commit": "2026-08-14T14:02:00Z",
+                    "last_commit": "2026-08-19T14:21:32Z",
                     "owner": "azukds",
                     "repo": "tubular",
                     "stars": 108
@@ -985,10 +985,10 @@
                     "archived": false,
                     "id": 263727855,
                     "language": "Rust",
-                    "last_commit": "2026-08-19T10:30:48Z",
+                    "last_commit": "2026-08-19T18:57:56Z",
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39390
+                    "stars": 39399
                   }
                 },
                 {
@@ -1000,7 +1000,7 @@
                     "archived": false,
                     "id": 760058710,
                     "language": "Python",
-                    "last_commit": "2026-08-19T09:27:35Z",
+                    "last_commit": "2026-08-19T12:58:07Z",
                     "owner": "narwhals-dev",
                     "repo": "narwhals",
                     "stars": 1700
@@ -1165,7 +1165,7 @@
                     "archived": false,
                     "id": 1090241491,
                     "language": "Python",
-                    "last_commit": "2026-08-15T01:28:14Z",
+                    "last_commit": "2026-08-20T03:15:40Z",
                     "owner": "heshamdar",
                     "repo": "polars-nexpresso",
                     "stars": 7
@@ -1377,7 +1377,7 @@
                     "last_commit": "2026-08-18T08:28:10Z",
                     "owner": "ion-elgreco",
                     "repo": "polars-hash",
-                    "stars": 93
+                    "stars": 94
                   }
                 },
                 {
@@ -1596,10 +1596,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:30:48Z",
+                "last_commit": "2026-08-19T18:57:56Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39390
+                "stars": 39399
               }
             },
             {
@@ -1693,7 +1693,7 @@
                 "archived": false,
                 "id": 648731296,
                 "language": "R",
-                "last_commit": "2026-08-17T07:58:13Z",
+                "last_commit": "2026-08-20T03:29:03Z",
                 "owner": "etiennebacher",
                 "repo": "tidypolars",
                 "stars": 238
@@ -1865,7 +1865,7 @@
                 "last_commit": "2025-12-10T16:29:25Z",
                 "owner": "jeroenjanssens",
                 "repo": "python-polars-the-definitive-guide",
-                "stars": 341
+                "stars": 342
               }
             },
             {
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:45:59.006Z",
+    "last_updated": "2026-08-20T03:52:32.664Z",
     "original_repository": "ddotta/awesome-polars",
     "original_repository_id": 601558445,
     "original_repository_sha": "08080e06d4b1a5563d42eec6f7c314b1c46be2fc",
