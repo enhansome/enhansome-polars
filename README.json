@@ -258,7 +258,7 @@
                     "last_commit": "2026-08-06T20:23:55Z",
                     "owner": "oreilles",
                     "repo": "polars-st",
-                    "stars": 193
+                    "stars": 194
                   }
                 },
                 {
@@ -541,7 +541,7 @@
                     "last_commit": "2026-05-03T10:37:52Z",
                     "owner": "functime-org",
                     "repo": "functime",
-                    "stars": 1181
+                    "stars": 1182
                   }
                 },
                 {
@@ -750,7 +750,7 @@
                     "last_commit": "2026-07-15T12:30:25Z",
                     "owner": "r-brink",
                     "repo": "polars-mcp",
-                    "stars": 15
+                    "stars": 16
                   }
                 }
               ],
@@ -824,7 +824,7 @@
                     "last_commit": "2026-08-22T18:53:29Z",
                     "owner": "Jebel-Quant",
                     "repo": "jquantstats",
-                    "stars": 42
+                    "stars": 43
                   }
                 },
                 {
@@ -866,7 +866,7 @@
                     "archived": false,
                     "id": 1235258686,
                     "language": "Rust",
-                    "last_commit": "2026-08-18T19:24:47Z",
+                    "last_commit": "2026-08-23T06:43:57Z",
                     "owner": "lavs9",
                     "repo": "quantwave",
                     "stars": 12
@@ -985,10 +985,10 @@
                     "archived": false,
                     "id": 263727855,
                     "language": "Rust",
-                    "last_commit": "2026-08-22T11:38:14Z",
+                    "last_commit": "2026-08-23T20:08:24Z",
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39446
+                    "stars": 39461
                   }
                 },
                 {
@@ -1000,10 +1000,10 @@
                     "archived": false,
                     "id": 760058710,
                     "language": "Python",
-                    "last_commit": "2026-08-23T00:49:31Z",
+                    "last_commit": "2026-08-23T20:47:34Z",
                     "owner": "narwhals-dev",
                     "repo": "narwhals",
-                    "stars": 1701
+                    "stars": 1703
                   }
                 },
                 {
@@ -1165,7 +1165,7 @@
                     "archived": false,
                     "id": 1090241491,
                     "language": "Python",
-                    "last_commit": "2026-08-20T14:38:40Z",
+                    "last_commit": "2026-08-23T07:26:16Z",
                     "owner": "heshamdar",
                     "repo": "polars-nexpresso",
                     "stars": 7
@@ -1332,7 +1332,7 @@
                     "last_commit": "2026-02-11T10:47:09Z",
                     "owner": "wukan1986",
                     "repo": "polars_ta",
-                    "stars": 260
+                    "stars": 261
                   }
                 },
                 {
@@ -1359,7 +1359,7 @@
                     "archived": false,
                     "id": 894611596,
                     "language": "Python",
-                    "last_commit": "2026-08-21T14:53:52Z",
+                    "last_commit": "2026-08-23T09:11:52Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
                     "stars": 192
@@ -1596,10 +1596,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-22T11:38:14Z",
+                "last_commit": "2026-08-23T20:08:24Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39446
+                "stars": 39461
               }
             },
             {
@@ -1738,7 +1738,7 @@
                 "archived": false,
                 "id": 846251877,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:39:12Z",
+                "last_commit": "2026-08-23T08:39:57Z",
                 "owner": "etiennebacher",
                 "repo": "r-polars-dashboard",
                 "stars": 3
@@ -1832,10 +1832,10 @@
                 "archived": false,
                 "id": 132374697,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T16:47:05Z",
+                "last_commit": "2026-08-24T03:41:57Z",
                 "owner": "realpython",
                 "repo": "materials",
-                "stars": 5203
+                "stars": 5204
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "last_commit": "2026-08-22T10:28:30Z",
                 "owner": "wiseaidev",
                 "repo": "rust-data-analysis",
-                "stars": 469
+                "stars": 470
               }
             },
             {
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:56:50.592Z",
+    "last_updated": "2026-08-24T04:00:26.522Z",
     "original_repository": "ddotta/awesome-polars",
     "original_repository_id": 601558445,
     "original_repository_sha": "08080e06d4b1a5563d42eec6f7c314b1c46be2fc",
