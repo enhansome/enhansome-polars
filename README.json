@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": "To see the latest entries in the list, view the changelog on trackawesomelist.com.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Filling a suggestion issue",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601558445,
+            "language": null,
+            "last_commit": "2026-08-24T14:14:30Z",
+            "owner": "ddotta",
+            "repo": "awesome-polars",
+            "stars": 1116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opening a pull request",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601558445,
+            "language": null,
+            "last_commit": "2026-08-24T14:14:30Z",
+            "owner": "ddotta",
+            "repo": "awesome-polars",
+            "stars": 1116
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -146,7 +182,7 @@
                     "last_commit": "2026-08-21T19:49:53Z",
                     "owner": "ibis-project",
                     "repo": "ibis",
-                    "stars": 6639
+                    "stars": 6641
                   }
                 },
                 {
@@ -407,6 +443,28 @@
               "description": null,
               "node_type": "group",
               "title": "Validation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "maskops",
+                  "description": "Native Polars expression plugin for high-speed PII masking and detection, powered by Rust. Supports asterisk masking, HMAC-SHA256 deterministic pseudonymization, and FF3-1 format-preserving encryption. GDPR Art. 4(5)-compliant by @fcarvajalbrown.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1176427414,
+                    "language": "Python",
+                    "last_commit": "2026-08-23T23:44:06Z",
+                    "owner": "fcarvajalbrown",
+                    "repo": "MaskOps",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Security / Privacy"
             },
             {
               "children": [
@@ -926,6 +984,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "httpolars",
+                  "description": "Polars plugin for HTTP operations on columns by @lmmx.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 806644738,
+                    "language": "Rust",
+                    "last_commit": "2024-06-16T22:14:59Z",
+                    "owner": "lmmx",
+                    "repo": "httpolars",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Networking"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "polars_ols",
                   "description": "Polars plugin that enables fast linear model Polar expressions by @azmyrajab.",
                   "children": [],
@@ -985,10 +1065,10 @@
                     "archived": false,
                     "id": 263727855,
                     "language": "Rust",
-                    "last_commit": "2026-08-23T20:08:24Z",
+                    "last_commit": "2026-08-24T13:50:33Z",
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39461
+                    "stars": 39468
                   }
                 },
                 {
@@ -1003,7 +1083,7 @@
                     "last_commit": "2026-08-23T20:47:34Z",
                     "owner": "narwhals-dev",
                     "repo": "narwhals",
-                    "stars": 1703
+                    "stars": 1705
                   }
                 },
                 {
@@ -1270,6 +1350,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "polars_kde",
+                  "description": "Polars plugin for kernel density estimation by @schemaitat.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 946073127,
+                    "language": "Python",
+                    "last_commit": "2025-03-11T19:52:55Z",
+                    "owner": "schemaitat",
+                    "repo": "polars_kde",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Statistics / Analytics"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "QuickEcharts",
                   "description": "Python package for fast and easy echarts with Polars backend by @AdrianAntico.",
                   "children": [],
@@ -1362,7 +1464,7 @@
                     "last_commit": "2026-08-23T09:11:52Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
-                    "stars": 192
+                    "stars": 193
                   }
                 },
                 {
@@ -1596,10 +1698,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-23T20:08:24Z",
+                "last_commit": "2026-08-24T13:50:33Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39461
+                "stars": 39468
               }
             },
             {
@@ -1738,7 +1840,7 @@
                 "archived": false,
                 "id": 846251877,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:39:57Z",
+                "last_commit": "2026-08-24T08:57:50Z",
                 "owner": "etiennebacher",
                 "repo": "r-polars-dashboard",
                 "stars": 3
@@ -1748,6 +1850,116 @@
           "description": null,
           "node_type": "group",
           "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "go-polars",
+              "description": "This project creates Go bindings for Polars.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 931369894,
+                "language": "Go",
+                "last_commit": "2025-09-01T13:08:40Z",
+                "owner": "jordandelbar",
+                "repo": "go-polars",
+                "stars": 88
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nodejs-polars for Node.js",
+              "description": "Node.js package to use polars DataFrame from Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519710571,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T00:30:39Z",
+                "owner": "pola-rs",
+                "repo": "nodejs-polars",
+                "stars": 747
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scala-polars for Scala and Java",
+              "description": "Scala - Java is a library for using Polars in Scala and Java projects by @chitralverma.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584799586,
+                "language": "Scala",
+                "last_commit": "2026-08-03T22:03:10Z",
+                "owner": "chitralverma",
+                "repo": "scala-polars",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala/Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "polars for Ruby",
+              "description": "Ruby gems to use Polars with Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569122226,
+                "language": "Ruby",
+                "last_commit": "2026-08-13T17:04:04Z",
+                "owner": "ankane",
+                "repo": "ruby-polars",
+                "stars": 993
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Polars.NET",
+              "description": "C# - F# is a library to bring polars to .NET ecosystem, with idiomatic C# Polars.NET and F# Polars.FSharp API nuget packages provided.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1102539612,
+                "language": "C#",
+                "last_commit": "2026-08-08T08:46:09Z",
+                "owner": "ErrorLSC",
+                "repo": "Polars.NET",
+                "stars": 175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
         }
       ],
       "title": "Libraries/Packages/Scripts"
@@ -2314,7 +2526,7 @@
                 "last_commit": "2024-03-21T22:08:16Z",
                 "owner": "AmitXShukla",
                 "repo": "RPA",
-                "stars": 97
+                "stars": 98
               }
             },
             {
@@ -2432,7 +2644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:00:26.522Z",
+    "last_updated": "2026-08-24T14:15:09.140Z",
     "original_repository": "ddotta/awesome-polars",
     "original_repository_id": 601558445,
     "original_repository_sha": "08080e06d4b1a5563d42eec6f7c314b1c46be2fc",
