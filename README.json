@@ -879,7 +879,7 @@
                     "archived": false,
                     "id": 977845118,
                     "language": "Python",
-                    "last_commit": "2026-08-22T18:53:29Z",
+                    "last_commit": "2026-08-25T05:32:53Z",
                     "owner": "Jebel-Quant",
                     "repo": "jquantstats",
                     "stars": 43
@@ -1068,7 +1068,7 @@
                     "last_commit": "2026-08-24T19:37:44Z",
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39478
+                    "stars": 39479
                   }
                 },
                 {
@@ -1716,7 +1716,7 @@
                 "last_commit": "2026-08-24T19:37:44Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39478
+                "stars": 39479
               }
             },
             {
@@ -1813,7 +1813,7 @@
                 "last_commit": "2026-08-20T11:44:47Z",
                 "owner": "etiennebacher",
                 "repo": "tidypolars",
-                "stars": 239
+                "stars": 240
               }
             },
             {
@@ -2659,7 +2659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:54:20.020Z",
+    "last_updated": "2026-08-25T06:07:02.125Z",
     "original_repository": "ddotta/awesome-polars",
     "original_repository_id": 601558445,
     "original_repository_sha": "a74c28d41bc0100a511df6afe2b2242fd2e9dd9b",
