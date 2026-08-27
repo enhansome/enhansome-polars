@@ -1080,10 +1080,10 @@
                     "archived": false,
                     "id": 263727855,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T11:51:28Z",
+                    "last_commit": "2026-08-27T14:00:46Z",
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39512
+                    "stars": 39514
                   }
                 },
                 {
@@ -1454,7 +1454,7 @@
                     "archived": false,
                     "id": 1341706039,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:15:39Z",
+                    "last_commit": "2026-08-27T12:38:57Z",
                     "owner": "flex-analytics",
                     "repo": "flexviz",
                     "stars": 8
@@ -1743,10 +1743,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:51:28Z",
+                "last_commit": "2026-08-27T14:00:46Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39512
+                "stars": 39514
               }
             },
             {
@@ -2689,7 +2689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:00.766Z",
+    "last_updated": "2026-08-27T14:04:05.778Z",
     "original_repository_info": {
       "archived": false,
       "id": 601558445,
