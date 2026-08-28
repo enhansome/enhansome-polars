@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T09:58:55Z",
             "owner": "ddotta",
             "repo": "awesome-polars",
-            "stars": 1116
-          }
+            "stars": 1117
+          },
+          "first_seen": "2026-08-28T15:15:05.869Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-26T09:58:55Z",
             "owner": "ddotta",
             "repo": "awesome-polars",
-            "stars": 1116
-          }
+            "stars": 1117
+          },
+          "first_seen": "2026-08-28T15:15:05.869Z"
         }
       ],
       "title": "Overview"
@@ -52,11 +54,12 @@
                     "archived": false,
                     "id": 963585541,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T22:41:37Z",
+                    "last_commit": "2026-08-28T01:55:34Z",
                     "owner": "jrothbaum",
                     "repo": "polars_readstat",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -67,11 +70,12 @@
                     "archived": false,
                     "id": 1237760161,
                     "language": "Python",
-                    "last_commit": "2026-08-26T22:31:33Z",
+                    "last_commit": "2026-08-27T21:54:22Z",
                     "owner": "Point72",
                     "repo": "polars-io-tools",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +90,8 @@
                     "owner": "DeflateAwning",
                     "repo": "polars_access_mdbtools",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "joshrotenberg",
                     "repo": "polars-redis",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -116,7 +122,8 @@
                     "owner": "krakotay",
                     "repo": "excelsior",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -131,7 +138,8 @@
                     "owner": "alipatti",
                     "repo": "polars_io",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -146,7 +154,8 @@
                     "owner": "DanielMaysWilliams",
                     "repo": "polars-root",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +170,8 @@
                     "owner": "apcamargo",
                     "repo": "polars-fastx",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +186,8 @@
                     "owner": "AThomas314",
                     "repo": "polars-mongo",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -197,8 +208,9 @@
                     "last_commit": "2026-08-26T17:14:36Z",
                     "owner": "ibis-project",
                     "repo": "ibis",
-                    "stars": 6644
-                  }
+                    "stars": 6648
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -212,8 +224,9 @@
                     "last_commit": "2026-08-03T12:21:50Z",
                     "owner": "Quantco",
                     "repo": "diffly",
-                    "stars": 44
-                  }
+                    "stars": 45
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -228,7 +241,8 @@
                     "owner": "machow",
                     "repo": "catfact",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +257,8 @@
                     "owner": "lmmx",
                     "repo": "polars-permute-plugin",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +273,8 @@
                     "owner": "lmmx",
                     "repo": "polars-expr-hopper",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +289,8 @@
                     "owner": "lmmx",
                     "repo": "polars-schema-index",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -288,7 +305,8 @@
                     "owner": "const-ae",
                     "repo": "polarstation",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -310,7 +328,8 @@
                     "owner": "oreilles",
                     "repo": "polars-st",
                     "stars": 193
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -325,7 +344,8 @@
                     "owner": "Filimoa",
                     "repo": "polars-h3",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -340,7 +360,8 @@
                     "owner": "MarcoGorelli",
                     "repo": "polars-reverse-geocode",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -355,7 +376,8 @@
                     "owner": "georgypv",
                     "repo": "polars-coord-transforms",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -376,8 +398,9 @@
                     "last_commit": "2026-08-04T09:18:45Z",
                     "owner": "Quantco",
                     "repo": "dataframely",
-                    "stars": 612
-                  }
+                    "stars": 613
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -392,7 +415,8 @@
                     "owner": "benrutter",
                     "repo": "wimsey",
                     "stars": 172
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -403,11 +427,12 @@
                     "archived": false,
                     "id": 334617862,
                     "language": "Python",
-                    "last_commit": "2026-08-26T21:13:37Z",
+                    "last_commit": "2026-08-27T23:04:31Z",
                     "owner": "vertti",
                     "repo": "daffy",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -418,11 +443,12 @@
                     "archived": false,
                     "id": 1121027162,
                     "language": "Python",
-                    "last_commit": "2026-07-17T03:32:45Z",
+                    "last_commit": "2026-08-28T11:08:35Z",
                     "owner": "seadonggyun4",
                     "repo": "truthound",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -437,7 +463,8 @@
                     "owner": "baggiponte",
                     "repo": "polars-validator",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +479,8 @@
                     "owner": "ericqu",
                     "repo": "iban_validation",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -474,7 +502,8 @@
                     "owner": "fcarvajalbrown",
                     "repo": "MaskOps",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -496,7 +525,8 @@
                     "owner": "erichutchins",
                     "repo": "polars_iptools",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -511,7 +541,8 @@
                     "owner": "condekind",
                     "repo": "polars-url",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -526,7 +557,8 @@
                     "owner": "Apsod",
                     "repo": "polars-textproc",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -548,7 +580,8 @@
                     "owner": "ion-elgreco",
                     "repo": "polars-distance",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -563,7 +596,8 @@
                     "owner": "bnmoch3",
                     "repo": "polars-fuzzy-match",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -578,7 +612,8 @@
                     "owner": "foxcroftjn",
                     "repo": "polars-strsim",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -593,7 +628,8 @@
                     "owner": "schemaitat",
                     "repo": "polars_sim",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -614,8 +650,9 @@
                     "last_commit": "2026-05-03T10:37:52Z",
                     "owner": "functime-org",
                     "repo": "functime",
-                    "stars": 1183
-                  }
+                    "stars": 1184
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -630,7 +667,8 @@
                     "owner": "Yvictor",
                     "repo": "polars_ta_extension",
                     "stars": 248
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -645,7 +683,8 @@
                     "owner": "pola-rs",
                     "repo": "polars-xdt",
                     "stars": 236
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -660,7 +699,8 @@
                     "owner": "drumtorben",
                     "repo": "polars-ts",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -675,7 +715,8 @@
                     "owner": "MarcoGorelli",
                     "repo": "polars-xdt-docs",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -697,7 +738,8 @@
                     "owner": "abstractqqq",
                     "repo": "polars_ds_extension",
                     "stars": 652
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -712,7 +754,8 @@
                     "owner": "azukds",
                     "repo": "tubular",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -727,7 +770,8 @@
                     "owner": "wdoppenberg",
                     "repo": "polars-candle",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -742,7 +786,8 @@
                     "owner": "AdrianAntico",
                     "repo": "RetroFit",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -757,7 +802,8 @@
                     "owner": "barak1412",
                     "repo": "polars_ml",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -772,7 +818,8 @@
                     "owner": "lmmx",
                     "repo": "polars-fastembed",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -793,8 +840,9 @@
                     "last_commit": "2026-08-21T12:46:49Z",
                     "owner": "polars-inc",
                     "repo": "skills",
-                    "stars": 70
-                  }
+                    "stars": 71
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -809,7 +857,8 @@
                     "owner": "pnthn-ai",
                     "repo": "polar_llama",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -824,7 +873,8 @@
                     "owner": "r-brink",
                     "repo": "polars-mcp",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -846,7 +896,8 @@
                     "owner": "rmalouf",
                     "repo": "polars_whichlang",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -861,7 +912,8 @@
                     "owner": "lmmx",
                     "repo": "polars-sbert",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -883,7 +935,8 @@
                     "owner": "ngriffiths13",
                     "repo": "polars-trading",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -898,7 +951,8 @@
                     "owner": "Jebel-Quant",
                     "repo": "jquantstats",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -913,7 +967,8 @@
                     "owner": "MarekOzana",
                     "repo": "polars-bloomberg",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -928,7 +983,8 @@
                     "owner": "Yvictor",
                     "repo": "polars_backtest_extension",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -943,7 +999,8 @@
                     "owner": "lavs9",
                     "repo": "quantwave",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -958,7 +1015,8 @@
                     "owner": "ChristopherRussell",
                     "repo": "polars-order-book",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -973,7 +1031,8 @@
                     "owner": "oscar6echo",
                     "repo": "polars-plugin-option-pricing",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -988,7 +1047,8 @@
                     "owner": "LVG77",
                     "repo": "polars-fin",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -1010,7 +1070,8 @@
                     "owner": "lmmx",
                     "repo": "httpolars",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -1032,7 +1093,8 @@
                     "owner": "azmyrajab",
                     "repo": "polars_ols",
                     "stars": 203
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1047,7 +1109,8 @@
                     "owner": "apcamargo",
                     "repo": "polars-pairing",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1062,7 +1125,8 @@
                     "owner": "alipatti",
                     "repo": "polars_rng",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -1080,11 +1144,12 @@
                     "archived": false,
                     "id": 263727855,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T14:00:46Z",
+                    "last_commit": "2026-08-28T13:43:09Z",
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39514
-                  }
+                    "stars": 39527
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1095,11 +1160,12 @@
                     "archived": false,
                     "id": 760058710,
                     "language": "Python",
-                    "last_commit": "2026-08-27T02:26:40Z",
+                    "last_commit": "2026-08-28T12:21:05Z",
                     "owner": "narwhals-dev",
                     "repo": "narwhals",
-                    "stars": 1708
-                  }
+                    "stars": 1709
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1114,7 +1180,8 @@
                     "owner": "MarcoGorelli",
                     "repo": "polars-upgrade",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1129,7 +1196,8 @@
                     "owner": "lmmx",
                     "repo": "polars-config-meta",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1144,7 +1212,8 @@
                     "owner": "ghuls",
                     "repo": "polars_streaming_csv_decompression",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1159,7 +1228,8 @@
                     "owner": "junghoon-son",
                     "repo": "polars-utils",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1174,7 +1244,8 @@
                     "owner": "dashdeckers",
                     "repo": "polars_list_utils",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1189,7 +1260,8 @@
                     "owner": "TomBurdge",
                     "repo": "harley",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1204,7 +1276,8 @@
                     "owner": "lmmx",
                     "repo": "polars-genson",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1219,7 +1292,8 @@
                     "owner": "jrycw",
                     "repo": "turtle-island",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1234,7 +1308,8 @@
                     "owner": "GiovanniGiacometti",
                     "repo": "polars-argpartition",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1249,7 +1324,8 @@
                     "owner": "jrasband-dev",
                     "repo": "polars-extensions",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1264,7 +1340,8 @@
                     "owner": "heshamdar",
                     "repo": "polars-nexpresso",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1279,7 +1356,8 @@
                     "owner": "hafaio",
                     "repo": "polars-map",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1294,7 +1372,8 @@
                     "owner": "AdrianAntico",
                     "repo": "PolarsFE",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1309,7 +1388,8 @@
                     "owner": "condekind",
                     "repo": "life_polars_plugin",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1324,7 +1404,8 @@
                     "owner": "hafaio",
                     "repo": "polars-avro",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1339,7 +1420,8 @@
                     "owner": "DeflateAwning",
                     "repo": "polars-row-collector",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1354,7 +1436,8 @@
                     "owner": "gorkaerana",
                     "repo": "polars-path",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -1376,7 +1459,8 @@
                     "owner": "pytoned",
                     "repo": "polarscope",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1391,7 +1475,8 @@
                     "owner": "schemaitat",
                     "repo": "polars_kde",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -1413,7 +1498,8 @@
                     "owner": "AdrianAntico",
                     "repo": "QuickEcharts",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1428,7 +1514,8 @@
                     "owner": "pavelcherepan",
                     "repo": "seaborn_polars",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1443,7 +1530,8 @@
                     "owner": "guillermodotn",
                     "repo": "flowview",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1454,11 +1542,12 @@
                     "archived": false,
                     "id": 1341706039,
                     "language": "Python",
-                    "last_commit": "2026-08-27T12:38:57Z",
+                    "last_commit": "2026-08-28T14:46:42Z",
                     "owner": "flex-analytics",
                     "repo": "flexviz",
-                    "stars": 8
-                  }
+                    "stars": 9
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -1480,7 +1569,8 @@
                     "owner": "wukan1986",
                     "repo": "polars_ta",
                     "stars": 261
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1495,7 +1585,8 @@
                     "owner": "azmyrajab",
                     "repo": "polars_ols",
                     "stars": 203
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1506,11 +1597,12 @@
                     "archived": false,
                     "id": 894611596,
                     "language": "Python",
-                    "last_commit": "2026-08-26T17:01:03Z",
+                    "last_commit": "2026-08-28T10:12:37Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
-                    "stars": 193
-                  }
+                    "stars": 194
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1525,7 +1617,8 @@
                     "owner": "ion-elgreco",
                     "repo": "polars-hash",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1540,7 +1633,8 @@
                     "owner": "ngriffiths13",
                     "repo": "polars-trading",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1551,11 +1645,12 @@
                     "archived": false,
                     "id": 1011275608,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T07:35:39Z",
+                    "last_commit": "2026-08-28T14:49:19Z",
                     "owner": "ENPICOM",
                     "repo": "immunum",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1570,7 +1665,8 @@
                     "owner": "abstractqqq",
                     "repo": "polars_istr",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1585,7 +1681,8 @@
                     "owner": "zlobendog",
                     "repo": "polars_encryption",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1600,7 +1697,8 @@
                     "owner": "ngriffiths13",
                     "repo": "photoshoot",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1615,7 +1713,8 @@
                     "owner": "t-ded",
                     "repo": "polars-graphframes",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1630,7 +1729,8 @@
                     "owner": "egayer",
                     "repo": "polarise",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1645,7 +1745,8 @@
                     "owner": "alipatti",
                     "repo": "polars_cache",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1660,7 +1761,8 @@
                     "owner": "LeCodeMinister",
                     "repo": "polars-phonetics",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1675,7 +1777,8 @@
                     "owner": "rhshadrach",
                     "repo": "cerbursus",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1690,7 +1793,8 @@
                     "owner": "paddymul",
                     "repo": "pl_series_hash",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1705,7 +1809,8 @@
                     "owner": "mrjsj",
                     "repo": "polars-holidays",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 },
                 {
                   "node_type": "item",
@@ -1720,7 +1825,8 @@
                     "owner": "raffaelemancuso",
                     "repo": "raffalib-python",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:05.869Z"
                 }
               ],
               "description": null,
@@ -1743,11 +1849,12 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-27T14:00:46Z",
+                "last_commit": "2026-08-28T13:43:09Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39514
-              }
+                "stars": 39527
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1762,7 +1869,8 @@
                 "owner": "pola-rs",
                 "repo": "geopolars",
                 "stars": 910
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1777,7 +1885,8 @@
                 "owner": "alceal",
                 "repo": "plotlars",
                 "stars": 668
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1792,7 +1901,8 @@
                 "owner": "pola-rs",
                 "repo": "polars-cli",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1807,7 +1917,8 @@
                 "owner": "ericqu",
                 "repo": "iban_validation",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -1825,11 +1936,12 @@
                 "archived": false,
                 "id": 582387164,
                 "language": "R",
-                "last_commit": "2026-08-26T08:41:39Z",
+                "last_commit": "2026-08-28T09:51:58Z",
                 "owner": "pola-rs",
                 "repo": "r-polars",
                 "stars": 568
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1844,7 +1956,8 @@
                 "owner": "etiennebacher",
                 "repo": "tidypolars",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1859,7 +1972,8 @@
                 "owner": "eitsupi",
                 "repo": "neo-r-polars",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1874,7 +1988,8 @@
                 "owner": "rpolars",
                 "repo": "r-polarssql",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -1885,11 +2000,12 @@
                 "archived": false,
                 "id": 846251877,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:54:38Z",
+                "last_commit": "2026-08-27T19:02:16Z",
                 "owner": "etiennebacher",
                 "repo": "r-polars-dashboard",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -1911,7 +2027,8 @@
                 "owner": "jordandelbar",
                 "repo": "go-polars",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -1933,7 +2050,8 @@
                 "owner": "pola-rs",
                 "repo": "nodejs-polars",
                 "stars": 748
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -1955,7 +2073,8 @@
                 "owner": "chitralverma",
                 "repo": "scala-polars",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -1973,11 +2092,12 @@
                 "archived": false,
                 "id": 569122226,
                 "language": "Ruby",
-                "last_commit": "2026-08-13T17:04:04Z",
+                "last_commit": "2026-08-27T23:11:22Z",
                 "owner": "ankane",
                 "repo": "ruby-polars",
                 "stars": 993
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -1999,7 +2119,8 @@
                 "owner": "ErrorLSC",
                 "repo": "Polars.NET",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -2025,7 +2146,8 @@
             "owner": "brutusyhy",
             "repo": "polars-explorer",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T15:15:05.869Z"
         },
         {
           "node_type": "item",
@@ -2040,7 +2162,8 @@
             "owner": "fran6w",
             "repo": "polars-query-dev-complexity",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:15:05.869Z"
         },
         {
           "node_type": "item",
@@ -2055,7 +2178,8 @@
             "owner": "lmmx",
             "repo": "octopolars",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:15:05.869Z"
         },
         {
           "node_type": "item",
@@ -2070,7 +2194,8 @@
             "owner": "idinsmore1",
             "repo": "polars-mas",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:15:05.869Z"
         }
       ],
       "title": "Tools Built with Polars"
@@ -2089,11 +2214,12 @@
                 "archived": false,
                 "id": 132374697,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T16:29:29Z",
+                "last_commit": "2026-08-28T08:20:15Z",
                 "owner": "realpython",
                 "repo": "materials",
                 "stars": 5206
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2108,7 +2234,8 @@
                 "owner": "wiseaidev",
                 "repo": "rust-data-analysis",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2123,7 +2250,8 @@
                 "owner": "jeroenjanssens",
                 "repo": "python-polars-the-definitive-guide",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2138,7 +2266,8 @@
                 "owner": "escobar-west",
                 "repo": "polars-cookbook",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2153,7 +2282,8 @@
                 "owner": "aruberts",
                 "repo": "tutorials",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2168,7 +2298,8 @@
                 "owner": "aruberts",
                 "repo": "tutorials",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2183,7 +2314,8 @@
                 "owner": "FlorianWilhelm",
                 "repo": "polars_vs_pandas",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2198,7 +2330,8 @@
                 "owner": "StuffbyYuki",
                 "repo": "Python-Polars-Tips-and-Tricks",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2213,7 +2346,8 @@
                 "owner": "debnsuma",
                 "repo": "pycon_polars101",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2228,7 +2362,8 @@
                 "owner": "TLouf",
                 "repo": "Py4DataSci-course",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -2250,7 +2385,8 @@
                 "owner": "fugue-project",
                 "repo": "fugue",
                 "stars": 2169
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2265,7 +2401,8 @@
                 "owner": "logicalclocks",
                 "repo": "hopsworks",
                 "stars": 1303
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2280,7 +2417,8 @@
                 "owner": "aruberts",
                 "repo": "tutorials",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2295,7 +2433,8 @@
                 "owner": "aruberts",
                 "repo": "tutorials",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2310,7 +2449,8 @@
                 "owner": "StuffbyYuki",
                 "repo": "Python-Polars-Tips-and-Tricks",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2325,7 +2465,8 @@
                 "owner": "StuffbyYuki",
                 "repo": "Python-Polars-Tips-and-Tricks",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2340,7 +2481,8 @@
                 "owner": "moncoachdata",
                 "repo": "MonShotData",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2355,7 +2497,8 @@
                 "owner": "danielbeach",
                 "repo": "PolarsVsPySpark",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2370,7 +2513,8 @@
                 "owner": "danielbeach",
                 "repo": "polarsVpandasOnAwsLambda",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2385,7 +2529,8 @@
                 "owner": "danielbeach",
                 "repo": "DataFrameShowDown",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2400,7 +2545,8 @@
                 "owner": "kahnwong",
                 "repo": "dataframe-frameworks-showdown",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2415,7 +2561,8 @@
                 "owner": "tocab",
                 "repo": "efficient-trees",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2430,7 +2577,8 @@
                 "owner": "danielbeach",
                 "repo": "PandasVsPolars",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2445,7 +2593,8 @@
                 "owner": "danielbeach",
                 "repo": "PolarsDateTimeManipulation",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2460,7 +2609,8 @@
                 "owner": "gaborschulz",
                 "repo": "learning-polars",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2475,7 +2625,8 @@
                 "owner": "sm823zw",
                 "repo": "pandas-vs-polars",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2490,7 +2641,8 @@
                 "owner": "norochalise",
                 "repo": "noroinsight-polars-tutorial",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2505,7 +2657,8 @@
                 "owner": "makeuseofcode",
                 "repo": "Polars-vs-Pandas-Comparison",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2520,7 +2673,8 @@
                 "owner": "woutergins",
                 "repo": "age-of-dataframes",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -2542,7 +2696,8 @@
                 "owner": "PacktPublishing",
                 "repo": "Polars-Cookbook",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2557,7 +2712,8 @@
                 "owner": "jeffheaton",
                 "repo": "present",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2572,7 +2728,8 @@
                 "owner": "AmitXShukla",
                 "repo": "RPA",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2587,7 +2744,8 @@
                 "owner": "martinbel",
                 "repo": "polars-tutorial",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2602,7 +2760,8 @@
                 "owner": "kimfetti",
                 "repo": "Conferences",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2617,7 +2776,8 @@
                 "owner": "datenzauberai",
                 "repo": "PyConDE-2023--Polars-make-the-switch",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2632,7 +2792,8 @@
                 "owner": "KeithGalli",
                 "repo": "polars-livestream",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2647,7 +2808,8 @@
                 "owner": "bfeif",
                 "repo": "personal-website",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2662,7 +2824,8 @@
                 "owner": "vb100",
                 "repo": "polars_vs_pandas",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             },
             {
               "node_type": "item",
@@ -2677,7 +2840,8 @@
                 "owner": "vedica1011",
                 "repo": "Polars",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:15:05.869Z"
             }
           ],
           "description": null,
@@ -2689,7 +2853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:04:05.778Z",
+    "last_updated": "2026-08-28T15:15:05.869Z",
     "original_repository_info": {
       "archived": false,
       "id": 601558445,
@@ -2697,7 +2861,7 @@
       "last_commit": "2026-08-26T09:58:55Z",
       "owner": "ddotta",
       "repo": "awesome-polars",
-      "stars": 1116
+      "stars": 1117
     },
     "original_repository_sha": "8ffc7f4ceab31ba1798c5e3e78d0f3bbcf336c77",
     "enhanced_repository": "enhansome/enhansome-polars",
